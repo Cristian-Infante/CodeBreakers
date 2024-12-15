@@ -90,6 +90,12 @@ MetAgro está desarrollado utilizando el stack **MERN**:
    - Backend: `npm run dev` dentro de la carpeta `backend`.
    - Frontend: `npm start` dentro de la carpeta `frontend`.
   
+## Desarrollado por:
+
+- Cristian Infante
+- Sebastián Romero
+- Cristian Rojas
+  
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la licencia [MIT](LICENSE).
